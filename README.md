@@ -8,4 +8,4 @@ The code is being organized, please look forward to it.
 The data utilized in this study are subject to privacy restrictions. However, upon a reasonable request to the corresponding author, the data can be anonymized and made accessible for further analysis.
 
 ## Test data
-In the article, we conducted experiments on doctor interaction testing. Here we provide 200 image data sets for the experiments, with 100 of them being metastatic images and 100 non-metastatic images.
+In the article, we conducted experiments on doctor interaction testing. Here we provide 100 images of the Human-AI Competing Test, with 50 of them being metastatic images(in the directory named "Meta") and 50 non-metastatic images(in the directory named "Non_meta").
